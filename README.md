@@ -53,8 +53,8 @@ Reference [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pd
 
 ## Styletransfer
 In fact, this is an assignment of CS231 online course. 
-A generated result.
 
+A generated result.
 ![](https://i.imgur.com/YfOAJLU.png)
 
 Reference [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
@@ -70,4 +70,11 @@ This file contains several different Reinforcement learning algorithms like
 I use the openAI-gym environment to test the these algorithms.
 
 
+## AnimeFaceGenerator
+I implement the DCGAN to generate the faces of anime girl. The dataset is crawled by myself from Getchu website and use the OpenCV face recognition to crop the raw images. 
+
+A generated result.
+![](https://i.imgur.com/4VXEd1n.png)
+
+Reference [MakeGirlsMoe](https://arxiv.org/pdf/1708.05509.pdf)
 
